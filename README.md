@@ -5,10 +5,15 @@ Jogo de quebra-blocos desenvolvido em Python utilizando Pygame como projeto de e
 Funcionalidades:
 
 •	Tela inicial com regras e contagem regressiva ;
+
 •	Sistema de pontuação e vidas ;
+
 •	Música e controle de volume ;
+
 •	Sistema de pausa ;
+
 •	Tela de Game Over ;
+
 •	Reinício da partida .
 
 Tecnologias:
