@@ -17,11 +17,13 @@ Funcionalidades:
 
 •	Reinício da partida .
 
+
 Tecnologias:
 
 •	Python ;
 
 •	Pygame .
+
 
 Ferramentas de apoio ao aprendizado :
 
@@ -34,7 +36,8 @@ Ferramentas de apoio ao aprendizado :
 As ferramentas acima foram utilizadas como apoio para pesquisa, aprendizado, 
 depuração e resolução de problemas durante o desenvolvimento do projeto.
 
-O executável do jogo encontra-se na seção Releases deste repositório.	
+O executável do jogo encontra-se na seção Release deste repositório.	
+
 
 Autor :
 
